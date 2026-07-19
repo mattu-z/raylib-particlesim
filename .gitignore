@@ -1,0 +1,12 @@
+# Code::Blocks build folders
+bin/
+obj/
+
+# Code::Blocks temporary and user files
+*.depend
+*.layout
+*.cb Temp
+
+# Executables
+*.exe
+*.out
